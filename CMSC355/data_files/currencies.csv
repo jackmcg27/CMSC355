@@ -1,0 +1,6 @@
+Currency,Exchange rate(relative to USD),Symbol
+usd,1,$
+euros,0.91,€
+pounds,0.81,£
+cad,1.34,C$
+pesos,18.04,MX$

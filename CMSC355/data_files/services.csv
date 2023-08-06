@@ -1,0 +1,5 @@
+﻿Service Code,Service Name,Module Name,Function Name
+0,Find flights,flight_search,flightSearch
+1,Find hotels,hotel_search,hotelSearch
+2,Change currency,currency_exchange,changeCurrency
+8,Change error language,change_language,changeLanguage

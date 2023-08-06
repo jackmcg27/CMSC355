@@ -1,0 +1,7 @@
+703,Service not found
+805,Currency not found
+901,Language not found
+614,Sort method not found
+610,No sort method specified ('time' or 'price')
+611,No sort method specified ('stars' or 'price')
+803,Not enough parameters ('amount' 'from currency' 'to currency')
